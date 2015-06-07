@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шагомер</string>
+    <string name="notification_subtitle">Подсчет ваших шагов</string>
+
+    <string name="started">Шагомер запущен.</string>
+    <string name="stopped">Шагомер остановлен.</string>
+
+    <string name="steps">шагов</string>
+    <string name="kilometers">километров</string>
+    <string name="miles">милей</string>
+    <string name="steps_per_minute">шагов / мин.</string>
+    <string name="kilometers_per_hour">километров / час</string>
+    <string name="miles_per_hour">милей / час</string>
+    <string name="calories_burned">каллорий сожжено</string>
+    <string name="centimeters">сантиметры</string>
+    <string name="inches">дюймов</string>
+    <string name="kilograms">килограммов</string>
+    <string name="pounds">фунтов</string>
+
+    <string name="desired_pace">Желаемый темп:</string>
+    <string name="desired_speed">Желаемая скорость:</string>
+
+    <string name="pause">Пауза</string>
+    <string name="resume">Возобновить</string>
+    <string name="reset">Сброс</string>
+	<string name="author">Автор</string>
+    <!-- Settings -->
+    <string name="settings">Настройки</string>
+    <string name="activity_settings">Настройки</string>
+	<string name="activity_author">Автор</string>
+    <string name="steps_settings_title">Основные Настройки</string>
+    <string name="sensitivity_setting">Чуствительность</string>
+    <string name="sensitivity_setting_details">Калибровка датчика шагов</string>
+    <string name="sensitivity_setting_title">Выбрать уровень чуствительности</string>
+    <string name="extra_high">экстра высокий</string>
+    <string name="very_high">очень высокий</string>
+    <string name="high">высокий</string>
+    <string name="higher">выше среднего</string>
+    <string name="medium">средний</string>
+    <string name="lower">низковат</string>
+    <string name="low">низкий</string>
+    <string name="very_low">очень низкий</string>
+    <string name="extra_low">экстра низкий</string>
+    <string name="operation_level_setting">Оперативный уровень</string>
+    <string name="operation_level_setting_details">Некоторые версии ОС останавливают датчиков, когда экран выключен; установите версию, которая работает у вас</string>
+    <string name="operation_level_setting_title">Выберите версию ОС</string>
+    <string name="run_in_background">Нормальная (просто попробуйте запустить в фоновом режиме)</string>
+    <string name="keep_screen_on">Экран включен (держать экран тусклым)</string>
+    <string name="wake_up">Агрессивная (разблокировать экран, когда я иду)</string>
+    <string name="units_setting">Единица</string>
+    <string name="units_setting_details">Английская или метрическая система</string>
+    <string name="units_setting_title">Выберите единицу измерения</string>
+    <string name="units_metric">Километры</string>
+    <string name="units_imperial">Мили</string>
+    <string name="step_length_setting">Длина шага</string>
+    <string name="step_length_setting_details">Для дистанции, скорости &amp; расчет калорий</string>
+    <string name="step_length_setting_title">Укажите длину вашего шага</string>
+    <string name="body_weight_setting">Масса тела</string>
+    <string name="body_weight_setting_details">Для расчета калорий</string>
+    <string name="body_weight_setting_title">Введите свой вес тела</string>
+    <string name="exercise_type_setting">Вид упражнения</string>
+    <string name="exercise_type_setting_details">Для расчета калорий</string>
+    <string name="exercise_type_setting_title">Выберите тип упражнения</string>
+    <string name="exercise_type_running">бег</string>
+    <string name="exercise_type_walking">хотьба</string>
+    <string name="maintain_setting">Поддержание темпа / скорости</string>
+    <string name="maintain_setting_details">Поддержание желаемого темпа / скорости</string>
+    <string name="maintain_setting_title">Поддержание:</string>
+    <string name="maintain_nothing">ничего</string>
+    <string name="maintain_pace">темп</string>
+    <string name="maintain_speed">скорость</string>
+    <string name="voice_settings_title">Голосовые настройки (Только на английском)</string>
+    <string name="voice_setting">Речь</string>
+    <string name="voice_setting_details">Включены/Выключены голосовые уведомления</string>
+    <string name="speaking_interval_setting">Интервал</string>
+    <string name="speaking_interval_setting_details">Интервал голосовых уведомлений</string>
+    <string name="interval_15_seconds">Каждые 15 секунд</string>
+    <string name="interval_30_seconds">Каждые 30 секунд</string>
+    <string name="interval_1_minute">Каждую минуту</string>
+    <string name="interval_2_minutes">Каждые 2 минуты</string>
+    <string name="interval_5_minutes">Каждые 5 минут</string>
+    <string name="interval_10_minutes">Каждые 10 минут</string>
+    <string name="tell_what">Что говорить:</string>
+    <string name="tell_steps_setting">Шаги</string>
+    <string name="tell_steps_setting_details"></string>
+    <string name="tell_pace_setting">Темп</string>
+    <string name="tell_pace_setting_details">шагов / минуту</string>
+    <string name="tell_distance_setting">Дистанция</string>
+    <string name="tell_distance_setting_details">Километры или мили</string>
+    <string name="tell_speed_setting">Скорость</string>
+    <string name="tell_speed_setting_details">км/ч или мили</string>
+    <string name="tell_calories_setting">Сженные калории</string>
+    <string name="tell_calories_setting_details"></string>
+    <string name="tell_fasterslower_setting">Быстрый/медленный</string>
+    <string name="tell_fasterslower_setting_details">Помогает поддерживать нужный темп или скорость</string>
+    <string name="incorrect_step_length">Неправильный формат длины шага! Перейдите в раздел Настройки, чтобы изменить его!</string>
+
+    <string name="quit">Выход</string>
+</resources>
+

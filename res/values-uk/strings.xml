@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Крокомір</string>
+    <string name="notification_subtitle">Підрахування ваших кроків</string>
+
+    <string name="started">Крокомір запущений.</string>
+    <string name="stopped">Крокомір зупинен.</string>
+
+    <string name="steps">кроків</string>
+    <string name="kilometers">кілометрів</string>
+    <string name="miles">миль</string>
+    <string name="steps_per_minute">кроків / хв.</string>
+    <string name="kilometers_per_hour">кілометрів / год</string>
+    <string name="miles_per_hour">миль / год</string>
+    <string name="calories_burned">калорій спалено</string>
+    <string name="centimeters">сантиметри</string>
+    <string name="inches">дюймів</string>
+    <string name="kilograms">кілограмів</string>
+    <string name="pounds">фунтів</string>
+
+    <string name="desired_pace">Бажаний темп:</string>
+    <string name="desired_speed">Бажана швидкість:</string>
+
+    <string name="pause">Пауза</string>
+    <string name="resume">Продовжити</string>
+    <string name="reset">Скинути</string>
+	<string name="author">Автор</string>
+    <!-- Settings -->
+    <string name="settings">Налаштування</string>
+    <string name="activity_settings">Налаштування</string>
+	<string name="activity_author">Автор</string>
+    <string name="steps_settings_title">Основні Налаштування</string>
+    <string name="sensitivity_setting">Чутливість</string>
+    <string name="sensitivity_setting_details">Калібровка датчика кроків</string>
+    <string name="sensitivity_setting_title">Вибрати ріветь чутливості</string>
+    <string name="extra_high">екстра високий</string>
+    <string name="very_high">дуже високий</string>
+    <string name="high">високий</string>
+    <string name="higher">вище середнього</string>
+    <string name="medium">середній</string>
+    <string name="lower">низьковатий</string>
+    <string name="low">низький</string>
+    <string name="very_low">дуже низький</string>
+    <string name="extra_low">екстра низький</string>
+    <string name="operation_level_setting">Оперативний рівень</string>
+    <string name="operation_level_setting_details">Деякі версії ОС зупиняють датчики, коли екран виключений; установіть версію, яка робить у вас</string>
+    <string name="operation_level_setting_title">Выберите версию ОС</string>
+    <string name="run_in_background">Нормальна (просто попробуйте запустити в фоновому редимі)</string>
+    <string name="keep_screen_on">Екран виключений (тримати екран тусклим)</string>
+    <string name="wake_up">Агресивна (розблокувати екран, коли я йду)</string>
+    <string name="units_setting">Одиниця</string>
+    <string name="units_setting_details">Англійська або метрична система</string>
+    <string name="units_setting_title">Виберіть одиницю вимірювання</string>
+    <string name="units_metric">Кілометри</string>
+    <string name="units_imperial">Милі</string>
+    <string name="step_length_setting">Розмір крока</string>
+    <string name="step_length_setting_details">Для дистанції, швидкості &amp; розрахунку калорій</string>
+    <string name="step_length_setting_title">Вкажіть довжину вашого крока</string>
+    <string name="body_weight_setting">Маса тіла</string>
+    <string name="body_weight_setting_details">Для розрахунку калорій</string>
+    <string name="body_weight_setting_title">Вкажіть вашу масу тіла</string>
+    <string name="exercise_type_setting">Вид вправ</string>
+    <string name="exercise_type_setting_details">Для розрахунку калорій</string>
+    <string name="exercise_type_setting_title">Виберіть тип вправ</string>
+    <string name="exercise_type_running">біг</string>
+    <string name="exercise_type_walking">хотьба</string>
+    <string name="maintain_setting">Підтримування темпа / швидкості</string>
+    <string name="maintain_setting_details">Підтримування бажаного темпа / швидкості</string>
+    <string name="maintain_setting_title">Підтримування:</string>
+    <string name="maintain_nothing">нічого</string>
+    <string name="maintain_pace">темп</string>
+    <string name="maintain_speed">швидкість</string>
+    <string name="voice_settings_title">Голосові налаштуввнна (Тільки на англійскому)</string>
+    <string name="voice_setting">Мовлення</string>
+    <string name="voice_setting_details">Включені/Виключені голосові сповіщення</string>
+    <string name="speaking_interval_setting">Інтервал</string>
+    <string name="speaking_interval_setting_details">Інтервал голосових сповіщень</string>
+    <string name="interval_15_seconds">Кожні 15 секунд</string>
+    <string name="interval_30_seconds">Кожні 30 секунд</string>
+    <string name="interval_1_minute">Кожну хвилину</string>
+    <string name="interval_2_minutes">Кожні 2 хвилини</string>
+    <string name="interval_5_minutes">Кожні 5 хвилин</string>
+    <string name="interval_10_minutes">Кожні 10 хвилин</string>
+    <string name="tell_what">Що говорити:</string>
+    <string name="tell_steps_setting">Кроки</string>
+    <string name="tell_steps_setting_details"></string>
+    <string name="tell_pace_setting">Темп</string>
+    <string name="tell_pace_setting_details">кроків / хвилину</string>
+    <string name="tell_distance_setting">Дистанція</string>
+    <string name="tell_distance_setting_details">Кілометри або милі</string>
+    <string name="tell_speed_setting">Швидкість</string>
+    <string name="tell_speed_setting_details">км/г або милі</string>
+    <string name="tell_calories_setting">Спалені калорії</string>
+    <string name="tell_calories_setting_details"></string>
+    <string name="tell_fasterslower_setting">Швидкий/повільний</string>
+    <string name="tell_fasterslower_setting_details">Допомогає підтримувати потрібний темп або швидкість</string>
+    <string name="incorrect_step_length">Неправильний формат довжини крока! Перейдіть в розділ Налаштування, щоб змінити його!</string>
+
+    <string name="quit">Вихід</string>
+</resources>
+
